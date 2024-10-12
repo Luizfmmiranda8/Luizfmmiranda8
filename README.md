@@ -1,6 +1,6 @@
 ### Hi there, I am Luiz Miranda 👋
 
-- 🔭 Game developer and Software developer
+- 🔭 Game developer and Software developer at LUMA Gameworks: https://lumagameworks.com
 - 📫 How to reach me: luizfmmiranda@gmail.com
 - 😄 Pronouns: He/him
 
